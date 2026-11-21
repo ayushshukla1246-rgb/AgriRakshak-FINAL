@@ -5,3 +5,5 @@ pillow
 folium
 streamlit-folium
 scikit-learn
+Flask
+gunicorn
